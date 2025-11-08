@@ -1,0 +1,13 @@
+# Flutter/Dart
+.dart_tool/
+build/
+.packages
+ios/Pods/
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+**/GeneratedPluginRegistrant.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
