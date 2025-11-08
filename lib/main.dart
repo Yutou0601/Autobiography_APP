@@ -395,7 +395,7 @@ class Screen4 extends StatelessWidget {
         _ProjectCard(
           title: '自傳 APP',
           desc: 'Flutter + audioplayers，整合個人自傳、圖片、音效，支援 Web/Windows/Android。',
-          url: 'https://www.google.com/',
+          url: 'https://github.com/Yutou0601/Autobiography_APP',
         ),
         _ProjectCard(
           title: '資料探勘分析-LinZhaiPlus',
